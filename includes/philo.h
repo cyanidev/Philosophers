@@ -33,8 +33,6 @@ typedef struct s_philo
 	time_t				last_time_meal;
 	int					*dead;
 	pthread_mutex_t		*meal_lock;
-	int					has_left_fork;
-	int					has_right_fork;
 	int					meal_count;
 }	t_philo;
 
