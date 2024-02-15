@@ -1,8 +1,12 @@
 
 <h1>The Dining Philosophers problem </h1>
 Philosophers is a 42 school project that illustrates synchronization issues and techniques for resolving them in concurrent algorithm design. Similar to the one that was formulated by Edsger Dijkstra in 1965 as a student exam exercise.
-
 <br><br>
+
+
+![alt text](https://github.com/cyanidev/Philosophers/blob/main/Philo%20img/Philos.webp)
+
+
 <h2>General instructions</h2>
 <ul>
 <li>Global variables are forbidden!<br></li>
