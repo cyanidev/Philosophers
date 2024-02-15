@@ -9,11 +9,11 @@ Philosophers is a 42 school project that illustrates synchronization issues and 
 <li>Your program(s) must accept the following arguments:</li>
   </ul>
    number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]<br><br>
-  ◦ <b><code>number_of_philosophers:</code></b> is the number of philosophers, but also the number of forks.<br>
+  ◦ <b><code>number_of_philosophers (int between 1 and 200): </code></b> is the number of philosophers, but also the number of forks.<br>
   ◦ <b><code>time_to_die (in milliseconds):</b></code> if a philosopher doesn't start eating within time_to_die milliseconds from the start of their last meal or from the beginning of the simulation, they will die.<br>
   ◦ <b><code>time_to_eat (in milliseconds):</b></code> is the time a philosopher has to eat. During this time, they will have the forks occupied.<br>
   ◦ <b><code>time_to_sleep (in milliseconds):</b></code> is the time a philosopher has to sleep.<br>
-  ◦ <b><code>number_of_times_each_philosopher_must_eat(optional argument):</b></code> if all philosophers eat at least number_of_times_each_philosopher_must_eat times, the simulation will stop. If not specified, the simulation will stop with the death of a philosopher.<br>
+  ◦ <b><code>number_of_times_each_philosopher_must_eat (optional argument):</b></code> if all philosophers eat at least number_of_times_each_philosopher_must_eat times, the simulation will stop. If not specified, the simulation will stop with the death of a philosopher.<br>
   </ol>
 <ul><br>
 <li>Each philosopher will be assigned a number from 1 to number_of_philosophers.<br></li>
