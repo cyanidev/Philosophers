@@ -4,7 +4,7 @@ Philosophers is a 42 school project that illustrates synchronization issues and 
 <br><br>
 
 
-![alt text](https://github.com/cyanidev/Philosophers/blob/main/Philo%20img/Philos.webp)
+
 
 
 <h2>General instructions</h2>
